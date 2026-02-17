@@ -1,2 +1,3 @@
-# luogu_practice
-This repository is for my practicing code
+# 洛谷的练习
+## 每个文件对应了不同阶段的代码练习
+## 可能会有后续学习，将在文件说明中标明
